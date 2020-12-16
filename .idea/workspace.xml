@@ -10,9 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a483fae-1fe9-4236-b4c3-d53877d8e852" name="Default Changelist" comment="upload">
-      <change afterPath="$PROJECT_DIR$/df" afterDir="false" />
-    </list>
+    <list default="true" id="7a483fae-1fe9-4236-b4c3-d53877d8e852" name="Default Changelist" comment="upload" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -114,6 +112,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="upload" />
